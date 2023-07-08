@@ -1,0 +1,10 @@
+# Site navigation links
+
+- title: 關於
+  url: /about/
+- title: 帖子
+  url: /posts/
+- title: 標籤
+  url: /tags/
+- title: 查詢
+  url: /search/
