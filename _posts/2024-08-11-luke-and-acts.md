@@ -18,7 +18,8 @@ tags:
 他父親 撒迦利亞 被聖靈充滿了，就預言說： '
 
 路加福音 1:15,35,41,67
-https://www.bible.com/users/xinzweb/reading-plans/4821-bibleproject-luke-acts/subscription/1075325714/day/1/segment/LUK.1.15,35,41,67
+
+<https://www.bible.com/users/xinzweb/reading-plans/4821-bibleproject-luke-acts/subscription/1075325714/day/1/segment/LUK.1.15,35,41,67>
 
 ---
 
