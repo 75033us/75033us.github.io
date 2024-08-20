@@ -28,7 +28,7 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
 
-copyright: 2023 Shine 小光
+copyright: 2024 Shine 小光
 
 plugins:
   - jekyll-paginate
