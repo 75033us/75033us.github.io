@@ -16,8 +16,7 @@ tags:
 
 耶穌拉着她的手，呼叫說：「女兒，起來吧！」 '
 
-
-https://www.bible.com/users/xinzweb/reading-plans/4821-bibleproject-luke-acts/subscription/1075325714/day/8/segment/LUK.8.30,35,46,54
+<https://www.bible.com/users/xinzweb/reading-plans/4821-bibleproject-luke-acts/subscription/1075325714/day/8/segment/LUK.8.30,35,46,54>
 
 ---
 
@@ -25,7 +24,7 @@ https://www.bible.com/users/xinzweb/reading-plans/4821-bibleproject-luke-acts/su
 回應最近聽到的，有關聖靈的醫治的錄像
 ```
 
-https://www.youtube.com/watch?v=4KVYjNXsoMc
+<https://www.youtube.com/watch?v=4KVYjNXsoMc>
 
 ```
 我看到的 聽到的
@@ -33,7 +32,7 @@ https://www.youtube.com/watch?v=4KVYjNXsoMc
 嚴新 氣功的描述 太類似了
 ```
 
-https://www.youtube.com/watch?v=pvdet8nmSOw&list=PLde3Gk2xX25OLHVPfqDtI4vphODsZcOXN
+<https://www.youtube.com/watch?v=pvdet8nmSOw&list=PLde3Gk2xX25OLHVPfqDtI4vphODsZcOXN>
 
 ```
 真的 假的 聖靈的活動 都混合在一起
@@ -50,7 +49,7 @@ https://www.youtube.com/watch?v=pvdet8nmSOw&list=PLde3Gk2xX25OLHVPfqDtI4vphODsZc
 值得一讀
 ```
 
-http://book.shenzhou.us/cpljdha/
+<http://book.shenzhou.us/cpljdha/>
 
 ---
 
