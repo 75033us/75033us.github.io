@@ -14,8 +14,6 @@ tags:
 
 正來的時候，鬼把他摔倒，叫他重重地抽瘋。耶穌就斥責那污鬼，把孩子治好了，交給他父親。 '
 
-<https://www.bible.com/users/xinzweb/reading-plans/4821-bibleproject-luke-acts/subscription/1075325714/day/9/segment/LUK.9.35,39,42>
-
 ---
 
 ```

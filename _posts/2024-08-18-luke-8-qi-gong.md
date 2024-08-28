@@ -16,8 +16,6 @@ tags:
 
 耶穌拉着她的手，呼叫說：「女兒，起來吧！」 '
 
-<https://www.bible.com/users/xinzweb/reading-plans/4821-bibleproject-luke-acts/subscription/1075325714/day/8/segment/LUK.8.30,35,46,54>
-
 ---
 
 ```

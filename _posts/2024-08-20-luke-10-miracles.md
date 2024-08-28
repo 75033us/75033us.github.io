@@ -12,8 +12,6 @@ tags:
 
 正當那時，耶穌被聖靈感動就歡樂，說：「父啊，天地的主，我感謝你！因為你將這些事向聰明通達人就藏起來，向嬰孩就顯出來。父啊！是的，因為你的美意本是如此。 一切所有的都是我父交付我的；除了父，沒有人知道子是誰；除了子和子所願意指示的，沒有人知道父是誰。」 '
 
-<https://www.bible.com/users/xinzweb/reading-plans/4821-bibleproject-luke-acts/subscription/1075325714/day/10/segment/LUK.10.1,21-22>
-
 ---
 
 ```
