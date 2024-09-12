@@ -13,7 +13,7 @@ words_per_minute: 200
 author:
   name: "Shine 小光"
   location: "美國 德克薩斯州"
-  picture: "https://avatars.githubusercontent.com/u/100602948?v=4"
+  picture: "https://avatars.githubusercontent.com/u/100602948"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github-square"
