@@ -29,8 +29,10 @@ footer_links:
     icon: fas fa-rss-square
   - title: Privacy Policy
     url: /privacy-policy/
+    icon: fas fa-shield-alt
   - title: Terms of Use
     url: /terms-of-use/
+    icon: fas fa-file-alt
 
 copyright: 2024 Shine 小光
 
