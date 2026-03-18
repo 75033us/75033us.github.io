@@ -27,6 +27,10 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+  - title: Privacy Policy
+    url: /privacy-policy/
+  - title: Terms of Use
+    url: /terms-of-use/
 
 copyright: 2024 Shine 小光
 
